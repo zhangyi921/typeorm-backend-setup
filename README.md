@@ -1,4 +1,4 @@
-# VPI backend with TypeORM
+# Backend with TypeORM
 
 Steps to run this project:
 
